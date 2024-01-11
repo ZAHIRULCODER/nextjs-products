@@ -83,11 +83,10 @@ export default function Home() {
 						<div className=" flex">
 							<img
 								src="https://library.sportingnews.com/styles/twitter_card_120x120/s3/2021-08/roman-reigns-wrestlemaniabacklash-5162021-wwe-ftr_1bb61qip6ta661kggkynu6jl3i.jpeg?itok=Ej6HRtVf"
-								alt="Himalaya Green Tea"
-								className="rounded-md mr-4"
+								alt="Himalaya Green Tea "
+								className="rounded-md mr-4 object-cover"
 								width="150"
 								height="100"
-								classNameName="object-cover"
 							/>
 							<div>
 								<div className="inline-flex items-center rounded-lg font-semibold bg-blue-400 text-blue-900 px-3 py-2">
